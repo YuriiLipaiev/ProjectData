@@ -1,7 +1,5 @@
 # mytestProject
 #include<iostream>
-#include<climits>
-#include<cmath>
 
 #define DAY_SEC 86400
 #define HOURS_SEC 3600
